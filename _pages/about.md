@@ -20,4 +20,4 @@ I am Ming Li (李明), now a Ph.D. student at [IRLab](https://irlab.science.uva.
 **Current research interests:** sequential recommendation, user-centered recommendation, item-centered recommendation, recommendation in retail,
 NLP techniques in recommender system, casual effect of recommendation and etc. 
 
-**Previous research projects:** generative adversarial network, human activity recoginition, automl powered automated negotiation and etc.
+<!-- **Previous research topics:** generative adversarial network, human activity recoginition, automl powered automated negotiation and etc. -->
