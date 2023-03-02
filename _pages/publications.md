@@ -2,12 +2,12 @@
 layout: page
 permalink: /publications/
 title: publications
-description: List also avaliable on [Google Scholar](https://scholar.google.com/citations?user=Rj4kkjkAAAAJ)
 years: [2023, 2022, 2021, 2019, 2018, 2017]
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+List also avaliable on [Google Scholar](https://scholar.google.com/citations?user=Rj4kkjkAAAAJ)
 <div class="publications">
 
 {%- for y in page.years %}
