@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-02-27 17:17:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+:tada: Our paper "A Next Basket Recommendation Check" got accepted at ACM Transactions on Information Systems (TOIS)!!
