@@ -23,6 +23,6 @@ I am Ming Li (李明), now a Postdoc Researcher at University of Amsterdam (UvA)
 
 **Current Project:** Now, I am currently working on building up the using\&fine-tuning LLM pipeline for Information Retrieval research. 
 
-**I am on job market now!!! Feel free to contact me ^:^**
+**I am on job market now!!! Feel free to contact me!**
 
 <!-- **Previous research topics:** generative adversarial network, human activity recoginition, automl powered automated negotiation and etc. -->
