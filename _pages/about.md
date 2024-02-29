@@ -21,7 +21,7 @@ I am Ming Li (李明), now a Postdoc Researcher at University of Amsterdam (UvA)
 
 **Ph.D. Research Summary:** Collaborated with Europe's largest retail company (Ahold Delhaize) on recommendation research within the smart retail scenario, resulting in several publications in top-tier conferences/journals (RecSys, SIGIR, TOIS, TORS, etc); some related research findings have been applied to real-world applications.
 
-**Current Project:** Now, I am currently working on building up the using&fine-tuning LLM pipeline for Information Retrieval research. 
+**Current Project:** Now, I am currently working on building up the using\&fine-tuning LLM pipeline for Information Retrieval research. 
 
 **I am on job market now!!! Feel free to contact me ^:^**
 
